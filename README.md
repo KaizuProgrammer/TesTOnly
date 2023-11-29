@@ -1,43 +1,91 @@
 # TesTOnly
 My first test repository.
-# My Favorite Series: **Stranger Things**
+
+---
+
+# One of my Favorite Movie: **Alive**
+
+![image](https://github.com/KaizuProgrammer/TesTOnly/assets/149174780/25702acc-bd2f-4679-a002-182c1323e9c3)
+
+`HD` `Trailer`
+
+---
 
 ## Overview
 
-**Stranger Things** is a thrilling science fiction-horror series created by the Duffer Brothers. Set in the 1980s in the fictional town of Hawkins, it seamlessly blends elements of supernatural, mystery, and coming-of-age genres.
+**Alive** - while a heinous virus wreaks havoc on a city, a lone guy remains trapped inside his apartment, digitally cut off from seeking assistance and trying to find a way out.[^1]
 
-## Synopsis
+---
 
-In the small town of Hawkins, strange occurrences begin to unfold as a young boy, Will Byers, mysteriously disappears. His friends embark on a quest to find him, encountering a mysterious girl with telekinetic abilities, a parallel dimension called the Upside Down, and a government conspiracy.
+## Genre
 
-## Key Features
-
-- **Compelling Characters:** The series boasts a cast of lovable characters, each with their own unique charm and development arcs.
+- **Thriller**
+- **Horror**
+- **Action**
   
-- **Nostalgic 80s Vibes:** From the music to the fashion, Stranger Things beautifully captures the essence of the 1980s, appealing to both nostalgia and new audiences.
+---
 
-- **Supernatural Elements:** The show keeps viewers on the edge of their seats with a perfect blend of supernatural and horror elements, creating a sense of suspense and excitement.
+## Casts of the Movie
 
-## Episodes
+1. **Lee Hyun-Wook**
+2. **Yoo Ah-in**
+3. **Jeon Bae-soo**
+4. **Park Shin-hye**
 
-1. **Chapter One: The Vanishing of Will Byers**
-2. **Chapter Two: The Weirdo on Maple Street**
-3. **Chapter Three: Holly, Jolly**
+---
 
 ## How to Watch
 
-All seasons of Stranger Things are available on [Netflix](https://www.netflix.com/title/80057281).
+Alive KDrama Movie is available on [TinyZone](https://tinyzonetv.se/movie/watch-alive-2020-free-63273).
+
+---
 
 ## Quotes
 
-> "Friends don't lie." - **Eleven**
+> *"Your eagerness to live is what's keeping you alive."* - **Alive**
 
-> "She's our friend and she's crazy!" - **Dustin**
+> *"The fact that we're alive means we're LUCKY."* - **Some KDrama Zombie Series**
 
-## Get Started
+---
 
-To start watching, simply head to [Netflix](https://www.netflix.com/title/80057281) and hit play!
+### Get Started
 
-Feel free to contribute to this repository by adding your favorite moments or suggesting improvements. Pull requests are welcome!
+To start watching, simply head to [TinyZone](https://tinyzonetv.se/movie/watch-alive-2020-free-63273). and hit play!
 
-Enjoy the journey to the Upside Down!
+I hope you enjoy my first repository! Thank you!
+
+---
+
+|  | Description |
+| ----------- | ----------- |
+| Movie | Alive |
+| Content | Zombie Apocalypse |
+
+---
+
+```
+{
+  Neil Clark Jeavin L. Sacco
+  BSIT 301 - A
+  APPDEV
+}
+```
+
+---
+
+Gwenchana
+: "I'm OK" or "it's fine."
+
+---
+
+~~씨발 [ssi-bal] : damn~~
+
+---
+
+- [x] Must Watch!! ❤️
+- [x] Like!! ✔️
+- [ ] Dislike!! ❌
+
+---
+
+[^1]: This description comes from the movie summary or context.
